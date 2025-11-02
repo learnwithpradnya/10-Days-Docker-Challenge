@@ -1,28 +1,59 @@
-# 10-Days-Docker-Challenge
+<p align="center">
+  <img src="images/Challenge Announcement.png" alt="10 Days Docker Challenge Banner" width="100%"/>
+</p>
 
-🐳 Kickstarting My 10 Days Docker Challenge – Simplifying Containers 🐳
+# 🐳 **10 Days Docker Challenge – Simplifying Containers**
 
-In this 10-day series, I’ll break down Docker concepts, best practices, and real-world use cases showing how containers simplify development and power cloud-native DevOps.
+> *Kickstarting my journey to master Docker — from fundamentals to real-world DevOps use cases.*
 
-💡 What’s Coming Up:
- Day 1: Containers vs VMs | Why Docker?
- Day 2: Docker Architecture 
- Day 3: Dockerfile | Build & Optimize Images
- Day 4: Volumes & Networking | Data + Communication
- Day 5: Docker Compose | Multi-Container Apps
- Day 6: Docker in CI/CD Pipeline
- Day 7: Docker Multistage Builds
- Day 8: Real-World Use Case 1
- Day 9: Real-World Use Case 2
- Day 10: Real-World Use Case 3
+---
 
-✨ By the end of this challenge, you’ll:
+## 🚀 **Let’s Get Started**
+In this **10-day challenge**, I’m diving deep into **Docker** — the backbone of containerization in cloud-native environments.  
+Every day, I have shared practical insights, commands, and mini-projects to help.
 
-🔹 Clearly understand Docker fundamentals
-🔹 Build & optimize Docker images effectively
-🔹 Use Docker in CI/CD pipelines & multi-container apps
-🔹 Apply Docker to real-world scenarios with confidence
+---
 
-Follow Pradnya Deshpande for more such Cloud and DevOps insights 
+## 🗓️ **Challenge RoadMap**
 
-hashtag#Docker hashtag#TechLearning hashtag#10DaysChallenge hashtag#LearnDocker hashtag#Upskill hashtag#ContinuousLearning hashtag#HandsOnDevOps hashtag#LearnWithPradnya hashtag#techopsbysonali hashtag#careerbytecode CareerByteCode Sonali Kurade hashtag#Azure hashtag#WomenInTech hashtag#CloudNative hashtag#DevOps
+| 🔢 Day | 📘 Topic | 🔗 LinkedIn Article |
+|:---:|:------|:----------------|
+| **Day 1** | Containers vs VMs — *Why Docker?* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 2** | Docker Architecture Explained | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 3** | Dockerfile — *Build & Optimize Images* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 4** | Volumes & Networking — *Data + Communication* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 5** | Docker Compose — *Multi-Container Apps* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 6** | Docker in CI/CD Pipeline | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 7** | Multi-Stage Builds — *Optimize Like a Pro* | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 8** | Real-World Use Case #1 | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 9** | Real-World Use Case #2 | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+| **Day 10**| Real-World Use Case #3 | [Read Here](https://www.linkedin.com/posts/clouddevopswithpradnya) |
+
+---
+
+## **Tech Stack & Tools**
+
+**Containers** | Docker, Docker Compose 
+**Cloud & Registry** | Azure Container Registry, Azure App Service
+**IaC (Infrastructure as Code)** | Terraform
+
+---
+
+## 🧠 **What You’ll Learn**
+
+At the end of this challenge you’ll gain the ability to:
+
+✅ Understand **Docker architecture & components**  
+✅ Build, tag, and push optimized **Docker images**  
+✅ Manage **multi-container apps** using Compose  
+✅ Integrate **Docker into CI/CD** workflows  
+✅ Deploy containers to **Azure cloud services** using IaC (Terraform)  
+
+---
+
+## 👩‍💻 **About Me**
+
+
+---
+> “Learn, Build, Automate, and Share.”  
+Each day in this challenge moves closer to mastering containerization and deploying production-grade workloads confidently.
