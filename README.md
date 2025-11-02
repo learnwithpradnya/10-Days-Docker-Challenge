@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Challenge Announcement.png" alt="10 Days Docker Challenge Banner" width="100%"/>
+  <img src="images/Announcement.png" alt="10 Days Docker Challenge Banner" width="100%"/>
 </p>
 
 # 🐳 **10 Days Docker Challenge – Simplifying Containers**
