@@ -48,16 +48,10 @@ At the end of this challenge you’ll gain the ability to:
 ✅ Deploy containers to **Azure cloud services** using IaC (Terraform)  
 
 ---
-
 ## 👩‍💻 **About Me**
+
 <p align="center">
-  <img src="images/AboutMe.png" alt="About Me Banner" width="80%"/>
+  <img src="https://github.com/learnwithpradnya/10-Days-Docker-Challenge/blob/main/images/Aboutme.png?raw=true" alt="About Me Banner" width="80%"/>
 </p>
-
-I’m **Pradnya Deshpande**, a Cloud & DevOps professional sharing hands-on learnings with  
-**Azure, Terraform, Docker, and GitHub Actions.**  
-
-I believe in:  
-> **Learn → Build → Automate → Share.**
 
 ---
