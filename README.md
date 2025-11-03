@@ -4,8 +4,6 @@
 
 # 🐳 **10 Days Docker Challenge – Simplifying Containers**
 
-> *Kickstarting my journey to master Docker — from fundamentals to real-world DevOps use cases.*
-
 ---
 
 ## 🚀 **Let’s Get Started**
