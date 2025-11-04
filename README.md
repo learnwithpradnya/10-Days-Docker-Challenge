@@ -50,7 +50,7 @@ At the end of this challenge you’ll gain the ability to:
 ---
 ## 👩‍💻 **About Me**
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/learnwithpradnya/10-Days-Docker-Challenge/blob/main/images/Aboutme.png?raw=true" alt="About Me Banner" width="80%"/>
 </p>
 
